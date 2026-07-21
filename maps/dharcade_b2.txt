@@ -1,0 +1,23 @@
+DuckHunt's Arcade
+------------------
+A DuckHunt Creation
+with help from LeeW
+
+There are five small games of my devising
+in this map, which all them cost points to
+play.  This is how you "pay" to use this
+arcade.  If you play well, you will win
+back the points you paid, and then some.
+
+Objective:
+Play games to win points, or just for fun.
+
+Cost/Reward:
+Bowl-A-Rama  - 15/30
+BreakOut     - 15/30
+Pong(Ball)   - 10/10+
+Pong(Player) -  5/10+
+Whack-A-Mole - 20/40+
+SlotMachine  -  1/100
+
+Chance to win something at slots: 1/25

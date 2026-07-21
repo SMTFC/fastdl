@@ -1,0 +1,22 @@
+Mini-Golf 3
+Beta 3
+------------------
+A DuckHunt Creation
+
+Objective:
+TRY TO FIND REPEATABLE BUGS, and
+please report them.  Otherwise,
+have fun playing.
+
+Try to break this, and please report
+any bugs you may find.
+
+Scoring:
+Blue blocks are worth one point
+for Ball, Golfer, and each team.
+
+Red blocks are worth two points
+for Ball, Golfer, and each team.
+
+Yellow blocks are worth three
+points for Ball, Golfer, and team.

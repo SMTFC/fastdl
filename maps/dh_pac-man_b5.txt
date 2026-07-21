@@ -1,0 +1,19 @@
+DuckHunt's Arcade
+Pac-Man Beta 5
+------------------
+A DuckHunt Creation
+
+Objective:
+Pac-Man - Eat all the power pellets.
+Ghosts - Stop the Pac-Man.
+Watchers - Watch and Laugh.
+
+Scoring (Pac-Man):
+-  1 team frags for each pellet.
+-  5 team frags each power pellet.
+- 25 team frags for eating all the pellets.
+- 25 team frags for eating the bonus.
+- 10 team frags for eating a ghost.
+
+Scoring (Ghosts)
+- 50 team frags for kiling Pac-Man

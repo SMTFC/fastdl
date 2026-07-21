@@ -1,0 +1,12 @@
+global
+{
+ZOOM	3
+ORIGIN	0 0 -193
+ROTATED	1
+}
+
+layer
+{
+IMAGE	"overviews/dh_pac-man_b5.tga"
+HEIGHT	-193
+}

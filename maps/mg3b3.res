@@ -1,0 +1,10 @@
+sound/duckhunt/doorbell.wav
+sound/duckhunt/windmill1.wav
+sound/duckhunt/windmill2.wav
+sound/duckhunt/windmill3.wav
+sound/duckhunt/windmill4.wav
+sound/duckhunt/windmill5.wav
+sound/duckhunt/windmill6.wav
+models/radarrow.mdl
+models/radarrow2.mdl
+maps/mg3b1.txt
