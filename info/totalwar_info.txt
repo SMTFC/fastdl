@@ -1,0 +1,76 @@
+June 27, 1999
+===================================================================================
+Title                    : Total War
+Filename                 : totalwar.zip (totalwar.bsp, totalwar.txt, 
+			   totalwar.wad, prelude.wav, inter.wav, totalwar_info.txt)
+Author                   : cyNic
+Email Address            : cynic@bigfoot.de
+Homepage		 : http://www.crosswinds.net/~cynicmaps
+Description              : Team Fortress Classic CTF map
+
+* Play Information *
+
+Single Player            : No
+
+Teamfortress		 : Yes
+Number of Teams		 : 2
+Recommended # of Players : 12-32
+
+Deathmatch               : No
+Difficulty Settings      : No
+
+* Construction *
+
+Base                     : my sick brain
+Editor used              : Worldcraft 2.1
+Known Bugs               : None
+
+Build Time               : about 4 weeks
+
+Compile machine          : P-166MMX with 64 megs RAM (Yes, this sucks)
+QCSG Time		 : 314 secs
+QBSP Time                : 944 secs
+QVIS Time (full)         : 3676 secs
+QRAD Time (extra)        : 16266 secs
+New Textures		 : totalwar.wad
+New Sounds		 : prelude.wav, inter.wav
+
+===================================================================================
+INSTALL INFORMATION:
+
+totalwar.bsp, totalwar.txt go in half-life/tfc/maps/
+totalwar.wad goes in half-life/tfc/
+prelude.wav, inter.wav go in half-life/tfc/sound/misc/
+
+===================================================================================
+PLAY INFORMATION:
+
+The year is 1945 and it's total war. The Red Army and the "Wehrmacht" are fighting
+for final victory. For some unknown reason this final battle takes place somewhere
+out in the desert and to win this senseless war, you've to capture as much flags as
+possible out of the enemy flagroom, deep in their base. Bringing these flags to the 
+capturepoint of your own base will make your leader happy. That's all, Private.
+Now get your rifle and kick some ass!
+
+===================================================================================
+ADDITIONAL INFORMATION:
+
+THIS MAP IS NOT TO BE LINKED TO ANY KIND OF POLITICAL PREFERANCE!
+Fascistic and communistic propaganda posters are ONLY used to give this
+map an authentic and evil ambience.
+
+===================================================================================
+ADDITIONAL CREDITS TO:  
+
+Team Fortress Software and Valve Software for making TF, HL and TFC
+Radium for his very competent review-sites
+Franz Liszt - one of the greatest composers in human history
+
+===================================================================================
+COPYRIGHT INFORMATION:
+
+Total War is copyright 1999 cyNic.
+Authors may use this map as a base to build additional maps as long as they
+leave some credits for me.
+
+===================================================================================

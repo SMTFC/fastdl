@@ -1,0 +1,171 @@
+March 3, 2000
+===================================================================================
+Title                    : Nuclear Fallout v1.2
+Filename                 : nuclear.zip (nuclear.bsp,
+					  nuclear.txt,
+					  nuclear_info.txt)
+Author                   : Private Beavis (Sebastian Magda)
+Email Address            : magda@uiuc.edu
+Homepage                 : http://free.prohosting.com/~beavis/
+Description              : Team Fortress Classic map
+
+* Play Information *
+
+Number of Teams          : 2
+Minimum # of players     : 4 (2/team)
+Recommended # of players : 12-32
+
+* Construction *
+
+Base                     : None
+Prefabs                  : nukeY1 by Yak_Fighter - used as a base and heavily modified 
+New Textures             : Yes, embedded in the file.
+New Sounds               : No
+Known Bugs               : None
+Editor used              : Worldcraft 2.1
+
+Build Time               : about 5 months with breaks
+
+* Compile information *
+
+Compile machine          : PIII-500 256MB RAM
+Compile tools            : Zoner's HL Tools v1.41
+HLCSG Time               : 106 secs
+HLBSP Time               : 198 secs
+HLVIS Time (full)        : 1359 secs
+HLRAD Time (extra)       : 98168 secs (that's over 27 hours!!)
+
+Compile summary:
+
+Object names  Objects/Maxobjs  Memory / Maxmem  Fullness
+------------  ---------------  ---------------  --------
+models            254/400        16256/25600    (63.5)
+planes          16616/32767     332320/655340   (50.7)
+vertexes        25466/65535     305592/786420   (38.9)
+nodes           10249/32767     245976/786408   (31.3)
+texinfos         5238/8192      209520/327680   (63.9)
+faces           19265/65535     385300/1310700  (29.4)
+clipnodes       30858/32767     246864/262136   (94.2)VERY FULL!
+leaves           6136/8192      171808/229376   (74.9)
+marksurfaces    24116/65535      48232/131070   (36.8)
+surfedges       90896/512000    363584/2048000  (17.8)
+edges           46087/256000    184348/1024000  (18.0)
+texdata          [variable]      25444/4194304  ( 0.6)
+lightdata        [variable]    2249487/4194304  (53.6)
+visdata          [variable]     234347/2097152  (11.2)
+entdata          [variable]      77070/524288   (14.7)
+201 textures referenced
+=== Total BSP file data space used: 5096148 bytes ===
+
+===================================================================================
+INSTALLATION INFORMATION:
+
+Put everything in tfc/maps/ in your half-life directory.
+
+===================================================================================
+REVISION HISTORY:
+
+1.2
+	- added key status messages for scouts
+
+1.1
+	- fixed elevator door 
+	- silo door can't be broken now (it will fix itself after several seconds)
+	- added turret in the control room - no more hiding inside
+	- the security switch won't work once nuke launch sequence is in progress
+	- keys have now build-in delay after the nuke is launched - no more key runs
+	- fixed detpack cheat with tunnel door in the control room
+	- decreased damage on the tunnel door
+	- increased damage on the control room door
+	- added more cells to backpacks in the silo complex 
+	- added turrets to all resupply rooms
+	- front doors in both bases stay open longer
+	- lots of message tweaks
+
+===================================================================================
+STORY:
+
+A band of doomsday fanatics takes control of a nuclear silo in New Mexico. The 
+negotiations with the U.S. Army are at a standoff and the complex is surrounded. 
+The tensions inside the group lead to a split into two separate fractions each of 
+them holding one launch key and a launch code that works with the other fraction's key.
+As one of the fanatics you have to gain control of the other launch key. That's the 
+only way to bring the God's wrath onto the unbelievers!
+
+===================================================================================
+PLAY INFORMATION:
+
+The map consists of two identical bases and a large underground silo complex. You 
+have to take the enemy missile key to the control room located in the silo complex.
+The most straightforward way is to go through the main complex entrance located behind 
+the loading dock in the middle of the map. Just enter the door with the "Doading Dock" 
+sign next to it and keep going.
+
+Once inside the control room you will be safe, as only the key carrier can open 
+the control room door from outside. Anyone can open the door from inside just by pressing 
+the panel in front of it. 
+
+As you enter the control room you will see a tunnel with a door to your left and a red 
+confirmation switch to your right. The tunnel leads down to the launch button, but you 
+won't be able to activate it by yourself. In order to launch the nuke you will need to 
+let one of your teammates into the control room. He will activate the red launch confirmation 
+switch that will enable the launch button. You will have to be with the key in the tunnel 
+at that time, as the confirmation switch will also close the tunnel door.
+
+Watch out for the control room security system! Enemy key carrier can activate control 
+room security by pressing the "Security" panel in the main room in front of the blue map. Everyone 
+inside the control room will get killed by turrets. You have just few seconds to leave the control 
+room before turrets activate. However, the security is disabled while the nuke launch sequence
+is active and you won't be harmed. Just make sure you activate the launch sequence first.
+
+Have fun exploring the map, as there are many more interesting aspects to it allowing
+for variety of strategies.
+
+Some tips:
+
+1. The only way to get out of the nuke blast range is to clear the base. You have to either 
+   get to the loading dock, the area above the nuke silo, or hide in the tunnel going
+   from the resupply to the silo complex.
+
+2. The fastest way to the control room is through the hole in the silo door right above the 
+   nuke. HOVEVER, it will be very painful, so make sure you can survive. Having a teammate
+   turn off the coolant valve ensures success.
+
+3. If you control the loading dock you can use the freight elevator to give your teammates
+   a quick way to get upstairs. The loading dock elevator can only be operated from the 
+   second floor.
+
+4. The back door in both bases CAN be open from inside by spies. Great way to let some heavy
+   classes in for a surprise attack.
+
+5. If you accidentally get into enemy resupply room, you won't be stuck. All resupply doors
+   can be open from inside by any team.
+
+Have Fun!
+
+===================================================================================
+ADDITIONAL CREDITS TO:  
+
+Team Fortress Software and Valve Software for making TF, HL and TFC
+Department of Engineering for being one of the greatest support center for mappers
+info_beta for playtesting the map
+Zoner for creating superb compile tools
+Clan WTF? members for support
+Anyone else who spend their time testing this map and providing feedback 
+
+Thank you all!
+
+===================================================================================
+COPYRIGHT INFORMATION:
+
+Authors MAY use this level as a base to build maps AS LONG AS THEY CLEARLY STATE 
+THAT FACT.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH NO 
+MODIFICATIONS!!!. If you don't cooperate, DON'T DISTRIBUTE IT IN ANY FORM!!.
+ 
+This map may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put it on any CD or distribute it in any way without my 
+permission.
+
+===================================================================================
