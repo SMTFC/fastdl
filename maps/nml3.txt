@@ -1,0 +1,15 @@
+No Mans Land 3 - Meatgrinder
+By UncleBRUCE
+
+Objective: Enter the enemy base and make 
+your way to the basement where their flag
+resides in the back of a truck. Grab it
+and bring itback to your battlements. Place
+it on the raised square to capture it.
+
+Scoring: 10 points per capture. 10 frags to 
+the capper.
+
+Note: Flag carriers drop the flag when they 
+die. Flags return to their original spot 90 
+seconds after it has been dropped.

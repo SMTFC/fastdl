@@ -1,0 +1,48 @@
+Smear The Queer  beta 2
+by Axl Axl Axl Go Stl Rams!
+www.AxlsTFC.com
+
+The Original murderball maps were
+by created by Chris Thorsten. 
+
+HOW TO PLAY:
+Grab the gay teletubbie from
+the middle of the map and hold on to 
+him for as long as you can. Your team
+will receive 1 point for every 10 
+seconds you hold him...her..it..whatever. 
+    
+beta 2
+12/8/2004
+
+- Changed the resupply rooms
+- Added new textures
+- Added new wavs
+
+beta 1
+9/15/2004
+
+- murderball type scoring works in this!
+- I hate the current resupply room. Gotta
+  work on that.
+
+As alot of people know, there is a scoring
+bug in the original murderball maps that
+cause teams to not receive points for
+holding the ball. It's still a popular map 
+on my servers so I tried to fix the bug
+through ripent, to no avail. So I decided 
+to just remake the map with everything fixed. 
+I remembered a teletubbie model I had floating 
+around in my TFC folder and decided to create 
+the maps theme around it. Now I have never 
+seen a minute of this show. (All I knew about it, 
+was from the news, when parents accused the purple 
+one of being homosexual). so I Tivo'd one to get 
+some ideas. What a WHACK show! There's gonna be 
+some very disturbed children in the near future. 
+What happenend to good 'ol Seasme Street?  
+
+THANKS:
+To Chris for the original Murderball maps
+and to whoever made the teletubbie model. 

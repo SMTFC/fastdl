@@ -1,0 +1,36 @@
+Hwguyz  beta 2
+by Axl Axl Axl Go Stl Rams!
+www.AxlsTFC.com
+
+Grab the enemies flag. Bring it back to your 
+capture point. First team to cap 10 times wins.
+You get 1 life per round. If you die, you get sent
+to the spectator room. Rounds last 2 minutes. 
+If no team caps after 2 minutes, round ends in a 
+tie. Each team can have 2 medics.     
+
+beta 2
+5/19/2004
+
+- It was crashing at start on steam so I re-did
+all the entities. Removed over 60 brush entities.
+Hopefully that'll fix it.
+- Changed more brushwork. Sill looks like crap. 
+- Added the 10 cap limit 
+- Added ending music and credits
+- Renamed map to hwguyz. Tired of the Axl preffix.
+- Added 60 second pregame wait time for connecting
+players
+
+beta 1 
+3/15/2004
+
+- Tweaked all the TFC ents from the first test
+- Gave players ammo/health refill on respawn
+- Added DoubleDragon music (I don't know why)
+- Changed some brushwork. It's hard to polish
+a turd!
+- Added goofy hwguyz logo 
+- Added more respawn points
+
+	

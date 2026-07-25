@@ -1,0 +1,14 @@
+TOTAL WAR
+
+Objective: Rush into the enemy base, 
+down to the flagroom, grab the flag 
+and take it to the top of your base.
+
+Scoring: 10 points per capture.
+
+Other Notes: Dropped flags return 
+to their base after 60 seconds.
+Artillery support is available
+every 3 minutes.
+
+(c) 1999 cyNic
