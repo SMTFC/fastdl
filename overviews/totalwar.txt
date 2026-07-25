@@ -1,0 +1,14 @@
+// overview description file for totalwar.bsp
+
+global 
+{
+	ZOOM	1.12
+	ORIGIN	0	0	-832
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/totalwar.tga"
+	HEIGHT	-832
+}

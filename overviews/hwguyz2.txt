@@ -1,0 +1,12 @@
+global
+{
+ZOOM	3.20
+ORIGIN	-128 0 -481
+ROTATED	1
+}
+
+layer
+{
+IMAGE	"overviews/hwguyz2.tga"
+HEIGHT	-481
+}

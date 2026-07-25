@@ -1,0 +1,14 @@
+// overview description file for shutdown2.bsp
+
+global 
+{
+	ZOOM	1.22
+	ORIGIN	-8	144	-512
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/shutdown2.tga"
+	HEIGHT	-512
+}

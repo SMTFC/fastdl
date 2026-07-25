@@ -1,0 +1,14 @@
+// overview description file for artifact.bsp
+
+global 
+{
+	ZOOM	0.81
+	ORIGIN	129.19 	0.31	-3904
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/artifact.bmp"
+	HEIGHT	-3904
+}

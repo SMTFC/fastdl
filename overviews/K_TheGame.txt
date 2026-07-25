@@ -1,0 +1,12 @@
+global
+{
+ZOOM	0.83
+ORIGIN	192 40 -2625
+ROTATED	0
+}
+
+layer
+{
+IMAGE	"overviews/k_thegame.tga"
+HEIGHT	-2625
+}
